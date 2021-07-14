@@ -1,10 +1,7 @@
 body{
     background-color: rgba(77, 118, 194, 0.034);
-    color:rgb(69, 77, 94);
+    color:rgb(68, 75, 90);
     font-family: Tahoma, Verdana, Times;
-}
-nav{
-    color:rgba(0, 132, 255, 0.274);
 }
 a{
     color:rgb(38, 39, 138);
